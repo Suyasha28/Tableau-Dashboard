@@ -1,5 +1,6 @@
 # Tableau-Dashboard
-Tableau Dashboard 
+Tableau Dashboard
+
 • Developed a comprehensive Tableau Sales Dashboard to assist a client in the skincare industry with automating
 key metric calculations like Revenue, Average Order value, Average Daily Sales foe working days, etc
 
